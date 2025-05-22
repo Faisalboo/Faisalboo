@@ -1,5 +1,5 @@
-# 💫 About Me:
-🧑‍💻 Software developer with a deep love for solving complex problems. 
+# About Me:
+Software developer with a deep love for solving complex problems. 
 
 
 ## 🌐 Socials:
